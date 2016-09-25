@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+body{
+  background-color: #272727;
+  color: white;
+}
+
+input[type="number"]{
+  color: black;
+  width: 40%;
+  margin-right: 2em;
+}
